@@ -1,4 +1,4 @@
-# React Project for the React Course
+## Задание №1 в общей папке.
 
 ## Available Scripts
 
